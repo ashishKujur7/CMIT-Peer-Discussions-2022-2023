@@ -7,7 +7,7 @@ Although Peer Discussions are mostly hosted by senior students, we would soon li
 ## Completed Peer Discussions
 | Date | Name | Batch | Topic |
 | --- | --- | --- | --- |
-| 13th August, 2022 | Rishica Harish Arora | BSMS Batch 19 | Game theory 101: from rock-paper-scissors to Rivalry, from dice to diagnostics.. |
+| 13th August, 2022 | Rishica Harish Arora | BSMS 19 | Game theory 101: from rock-paper-scissors to Rivalry, from dice to diagnostics.. |
 | 15th August, 2022 |  Anitha Valliappan | IPhD 21 | Game theory 101: from rock-paper-scissors to Rivalry, from dice to diagnostics (part 2)  |
 | 19th August, 2022 | Bharath Krishna S | IPhD 21 | Catalan Numbers |
 | 27th August, 2022 | Ashish Kujur | MSc 21 | Choice and its Convenience |
@@ -15,5 +15,5 @@ Although Peer Discussions are mostly hosted by senior students, we would soon li
 ## Tentatively Scheduled Peer Discussions
 | Date | Name | Batch | Topic |
 | --- | --- | --- | --- |
-| 2nd September, 2022 | Adithya V | MSc 21 | RSA Cryptosystems |
+| 2nd September, 2022 | Adithya V | MSc 22 | RSA Cryptosystems |
 | 9th September, 2022 | Chaitanya Sanjeev Joglekar | BSMS 18 | Symmetry |
