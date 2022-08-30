@@ -1,5 +1,7 @@
 # CMIT Peer Discussions - 2022-2023
-This repository is to keep a log of CMIT Peer Discussions that we will be having this semester.
+
+Peer Discusssions are conducted by students on topics that usually transcend the regular mathematics curriculum. 
+CMIT Peer Discussions have been somewhat successful this academic year. We intend to carry it year long.
 
 ## Completed Peer Discussions
 | Date | Name | Batch | Topic |
