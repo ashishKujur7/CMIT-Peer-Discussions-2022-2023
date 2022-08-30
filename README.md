@@ -2,7 +2,7 @@
 
 Peer Discusssions are conducted by students on topics that usually transcend the regular mathematics curriculum. 
 CMIT Peer Discussions have been somewhat successful this academic year. We intend to carry it year long.
-Although Peer Discussion are conducted by senior students, we would soon like to have juniors to do some sessions.
+Although Peer Discussions are mostly hosted by senior students, we would soon like to have juniors to do some sessions.
 
 ## Completed Peer Discussions
 | Date | Name | Batch | Topic |
