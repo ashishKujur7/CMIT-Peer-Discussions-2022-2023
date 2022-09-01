@@ -16,4 +16,7 @@ Although Peer Discussions are mostly hosted by senior students, we would soon li
 | Date | Name | Batch | Topic |
 | --- | --- | --- | --- |
 | 2nd September, 2022 | Adithya V | MSc 22 | RSA Cryptosystems |
-| 9th September, 2022 | Chaitanya Sanjeev Joglekar | BSMS 18 | Symmetry |
+| 9th September, 2022 | Shyam M | BSMS 19 | Hyperbolic Geometry |
+| October | Aakash Gupta | IPhD 20 | Measures on Topological Spaces |
+| October | Nirmal Rawat| MSc 21 | Iteration of Rational Functions |
+| October | Chetan S Tharkoti | MSc 21 | Krull Akizuki Theorem / Projective Modules |
