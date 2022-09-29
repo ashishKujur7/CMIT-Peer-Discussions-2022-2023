@@ -13,7 +13,7 @@ Although Peer Discussions are mostly hosted by senior students, we would soon li
 | 27th August, 2022 | Ashish Kujur | MSc 21 | Choice and its Convenience |
 | 2nd September, 2022 | Adithya V | MSc 22 | RSA Cryptosystems |
 | 9th October, 2022 | Muneeswaran | PhD 20 | Tentative: Something in Number Theory (?) |
-| 16th October | Ajin Shaji Jose | MSc 22 | Bevy of Cantor Sets |
+| 16th October, 2022 | Ajin Shaji Jose | MSc 22 | Bevy of Cantor Sets |
 
 ## Tentatively Scheduled Peer Discussions
 | Date | Name | Batch | Topic |
