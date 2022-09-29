@@ -21,9 +21,9 @@ Although Peer Discussions are mostly hosted by senior students, we would soon li
 | 16th October, 2022 | Ajin Shaji Jose | MSc 22 | Bevy of Cantor Sets |
 
 ## Tentatively Scheduled Peer Discussions
-| Date | Name | Batch | Topic |
-| --- | --- | --- | --- |
-| October | Aakash Gupta | IPhD 20 | Measures on Topological Spaces |
-| October | Nirmal Rawat| MSc 21 | Iteration of Rational Functions |
-| October | Chetan S Tharkoti | MSc 21 | Krull Akizuki Theorem / Projective Modules |
-| October | Chaitanya Sanjeev Joglekar | BSMS 18 | Groups & Symmetry |
+| Name | Batch | Topic |
+| --- | --- | --- |
+| Aakash Gupta | IPhD 20 | Measures on Topological Spaces |
+|  Nirmal Rawat| MSc 21 | Iteration of Rational Functions |
+|  Chetan S Tharkoti | MSc 21 | Krull Akizuki Theorem / Projective Modules |
+| Chaitanya Sanjeev Joglekar | BSMS 18 | Groups & Symmetry |
