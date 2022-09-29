@@ -1,6 +1,6 @@
 # CMIT Peer Discussions - 2022-2023
 
-Peer Discusssions are conducted by students on topics that usually transcend the regular mathematics curriculum. 
+Peer Discusssions are conducted by students on topics that usually accessible but transcend the regular mathematics curriculum. 
 CMIT Peer Discussions have been somewhat successful this academic year. We intend to carry it year long.
 Although Peer Discussions are mostly hosted by senior students, we would soon like to have juniors to do some sessions.
 
