@@ -15,6 +15,8 @@ Although Peer Discussions are mostly hosted by senior students, we would soon li
 
 
 ## Upcoming Peer Discussions
+| Date | Name | Batch | Topic |
+| --- | --- | --- | --- |
 | 9th October, 2022 | Muneeswaran | PhD 20 | Yet to Decide |
 | 16th October, 2022 | Ajin Shaji Jose | MSc 22 | Bevy of Cantor Sets |
 
