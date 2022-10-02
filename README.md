@@ -26,4 +26,3 @@ Although Peer Discussions are mostly hosted by senior students, we would soon li
 | Aakash Gupta | IPhD 20 | Measures on Topological Spaces |
 |  Nirmal Rawat| MSc 21 | Iteration of Rational Functions |
 |  Chetan S Tharkoti | MSc 21 | Krull Akizuki Theorem / Projective Modules |
-| Chaitanya Sanjeev Joglekar | BSMS 18 | Groups & Symmetry |
