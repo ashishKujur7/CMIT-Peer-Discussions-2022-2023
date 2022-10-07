@@ -17,7 +17,7 @@ Although Peer Discussions are mostly hosted by senior students, we would soon li
 ## Upcoming Peer Discussions
 | Date | Name | Batch | Topic |
 | --- | --- | --- | --- |
-| 9th October, 2022 | Muneeswaran | PhD 20 | Yet to Decide |
+| 9th October, 2022 | Muneeswaran | PhD 20 | Multiplicity of a root of multivariable polynomial |
 | 16th October, 2022 | Ajin Shaji Jose | MSc 22 | Bevy of Cantor Sets |
 
 ## Tentatively Scheduled Peer Discussions
